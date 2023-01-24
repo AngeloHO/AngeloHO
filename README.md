@@ -5,7 +5,9 @@
 - 📫 Você pode entrar em contato comigo por:
 -   email 📧: angelo.oneda77@hotmail.com
 -   instagram 📷:angeloonedaa
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-oneda-a862781a0//)]https://www.linkedin.com/in/angelo-oneda-a862781a0/)
+
+
+[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-oneda-a862781a0//)]https://www.linkedin.com/in/angelo-oneda-a862781a0/)
 - 
 
 
