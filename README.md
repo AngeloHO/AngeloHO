@@ -5,6 +5,5 @@
 - 📫 Você pode entrar em contato comigo por:
 -   email 📧: angelo.oneda77@hotmail.com
 -   instagram 📷:angeloonedaa
--   <BR>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,php)](https://skillicons.dev)
