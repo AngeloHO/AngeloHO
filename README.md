@@ -1,7 +1,7 @@
 - 👋 OI, eu sou o Angelo  
 - 👀 Eu estou interessado em aprender cada vez mais sobra a área de programação no geral
 - 🌱 Eu estou aprendendo Python na faculdade mas sou facinado pelas linguagens de programção 
-- 💞️ Eu pretendo colaborar com a equipe, com os meus conhecimentos, minha proatividade e gentileza
+- 💞️ Eu pretendo colaborar com a equipe, com os meus conhecimentos, minha proatividade
 - 📫 Você pode entrar em contato comigo por:
 -   email 📧: angelo.oneda77@hotmail.com
 -   instagram 📷:angeloonedaa
