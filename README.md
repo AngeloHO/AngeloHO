@@ -4,6 +4,6 @@
 - 💞️ Eu pretendo colaborar com a equipe, com os meus conhecimentos, minha proatividade
 - 📫 Você pode entrar em contato comigo por:
 -   email 📧: angelo.oneda77@hotmail.com
--   instagram 📷:angeloonedaa
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php)](https://skillicons.dev)
