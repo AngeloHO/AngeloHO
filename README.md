@@ -5,5 +5,8 @@
 - 📫 Você pode entrar em contato comigo por:
 -   email 📧: angelo.oneda77@hotmail.com
 
-
+My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php)](https://skillicons.dev)
+
+What I'm studying:
+[![My Skills](https://skillicons.dev/icons?i=js,dart,flutter)](https://skillicons.dev)
