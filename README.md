@@ -9,4 +9,4 @@ My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php)](https://skillicons.dev)
 
 What I'm studying:
-[![My Skills](https://skillicons.dev/icons?i=,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,dart,flutter, androidstudio)](https://skillicons.dev)
