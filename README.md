@@ -11,7 +11,7 @@
     E-mail 📧: angelo.oneda77@hotmail.com
 
 Minhas habilidades:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php,java)](https://skillicons.dev)
 
 Minhas áreas de estudo:
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio)](https://skillicons.dev)
