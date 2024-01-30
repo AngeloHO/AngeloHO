@@ -13,7 +13,5 @@
 Minhas habilidades:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,php,java)](https://skillicons.dev)
 
-Minhas áreas de estudo:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio)](https://skillicons.dev)
 
 
